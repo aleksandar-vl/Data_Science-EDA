@@ -4,3 +4,5 @@ My Data Science project - an EDA for :
   An exploration of GDP, population, GHG emissions and energy consumption".
 
 
+![EDA Project](assets/project_image.png)
+
