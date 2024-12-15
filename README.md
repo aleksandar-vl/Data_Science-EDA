@@ -3,14 +3,6 @@
 ## Overview
 This project aims to analyze international greenhouse gas emissions and energy efficiency trends from 1990 to 2014. The analysis focuses on GDP, population, GHG emissions, and energy consumption to identify the most energy-efficient countries.
 
-## Table of Contents
-1. Introduction
-2. Load the Data
-3. Data Preprocessing
-4. Exploratory Data Analysis (EDA)
-5. Conclusion
-6. References
-
 ## Introduction
 This project explores the relationship between GDP, population, GHG emissions, and energy consumption. The goal is to identify the most energy-efficient countries and understand the trends in energy efficiency and greenhouse gas emissions.
 
